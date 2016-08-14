@@ -1,8 +1,8 @@
 # TPaga Node v0.1.0
 
-Node.js library for TPaga API calls.
+Node.js library for TPaga API calls.  [![Build Status](https://travis-ci.org/AlejoJamC/tpaga-node.svg?branch=master)](https://travis-ci.org/AlejoJamC/tpaga-node)
+
 Wrapper to connect with [https://api.tpaga.co/](https://api.tpaga.co/).
-[![Build Status](https://travis-ci.org/AlejoJamC/tpaga-node.svg?branch=master)](https://travis-ci.org/AlejoJamC/tpaga-node)
 
 ## Install
 [TODO]
