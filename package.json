@@ -1,0 +1,27 @@
+{
+  "name": "tpaga-node",
+  "version": "0.1.0",
+  "description": "Node.js library for Tpaga API calls",
+  "main": "./lib/tpaga.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://AlejoJamC@github.com/AlejoJamC/tpaga-node.git"
+  },
+  "keywords": [
+    "Tpaga",
+    "nodejs",
+    "api",
+    "wrapper",
+    "tpaga",
+    "platform"
+  ],
+  "author": "Alejandro Mantilla <alejandromantilla7@hotmail.com> (https://twitter.com/AlejoJamC)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlejoJamC/tpaga-node/issues"
+  },
+  "homepage": "https://github.com/AlejoJamC/tpaga-node#readme"
+}
