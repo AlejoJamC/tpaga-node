@@ -4,7 +4,7 @@
   "description": "Node.js library for Tpaga API calls",
   "main": "./lib/tpaga.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules/mocha/bin/mocha"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/AlejoJamC/tpaga-node#readme",
   "devDependencies": {
+    "jshint": "^2.9.2",
     "mocha": "^3.0.2"
   },
   "dependencies": {

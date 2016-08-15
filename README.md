@@ -2,6 +2,7 @@
 
 
 [![Build Status](https://travis-ci.org/AlejoJamC/tpaga-node.svg?branch=master)](https://travis-ci.org/AlejoJamC/tpaga-node)
+  
   Node.js library for [TPaga](https://api.tpaga.co/) API calls.  
 
 ## Install
