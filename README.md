@@ -2,6 +2,7 @@
 
 
 [![Build Status](https://travis-ci.org/AlejoJamC/tpaga-node.svg?branch=master)](https://travis-ci.org/AlejoJamC/tpaga-node)
+[![Coverage Status](https://coveralls.io/repos/github/AlejoJamC/tpaga-node/badge.svg?branch=master)](https://coveralls.io/github/AlejoJamC/tpaga-node?branch=master)
   
   Node.js library for [TPaga](https://api.tpaga.co/) API calls.  
 

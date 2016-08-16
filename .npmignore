@@ -1,0 +1,6 @@
+coverage/
+examples/
+test/
+.idea/
+.travis.yml
+Contributing.md
