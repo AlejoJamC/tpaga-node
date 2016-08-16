@@ -2,7 +2,6 @@
 
 
 [![Build Status](https://travis-ci.org/AlejoJamC/tpaga-node.svg?branch=master)](https://travis-ci.org/AlejoJamC/tpaga-node)
-[![Coverage Status](https://coveralls.io/repos/github/AlejoJamC/tpaga-node/badge.svg?branch=master)](https://coveralls.io/github/AlejoJamC/tpaga-node?branch=master)
   
   Node.js library for [TPaga](https://api.tpaga.co/) API calls.  
 
@@ -24,7 +23,7 @@ Public key token:   pk_test_qvbvuthlvqpijnr0elmtg5jh
 ```
 
 ## Documentation
-Please see [TPaga Offical Documentation](https://tpaga.co/docs/swaggers/v2) for up-to-date documentation. [TPaga website](https://tpaga.co/).
+Please see [TPaga Offical Documentation](https://tpaga.co/docs/swaggers/v2) for up-to-date documentation. ([TPaga website](https://tpaga.co/)).
 
 ### License
 Developed by [@AlejoJamC](https://twitter.com/AlejoJamC). Available with [MIT License](LICENSE).
