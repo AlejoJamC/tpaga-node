@@ -29,6 +29,9 @@
     "mocha": "^3.0.2"
   },
   "dependencies": {
+    "dotenv": "^2.0.0",
+    "i18n": "^0.8.3",
+    "lodash": "^4.15.0",
     "request": "^2.74.0"
   }
 }
