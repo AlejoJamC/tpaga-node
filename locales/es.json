@@ -1,0 +1,5 @@
+{
+  "api_version_suggestion"  : "ADVERTENCIA: La versión de su API es diferente a la versión actual de TPaga, por favor, compruebe en la documentación oficial.",
+  "private_key_required"    : "API key privada invalida.",
+  "public_key_required"     : "API key publica invalida."
+}
