@@ -13,3 +13,7 @@ var assert  = require('assert'),
 const LOCALE            = 'es',
       PUBLIC_TEST_KEY   = 'pk_test_qvbvuthlvqpijnr0elmtg5jh',
       PRIVATE_TEST_KEY  = 'd13fr8n7vhvkuch3lq2ds5qhjnd2pdd2';
+
+describe('TPaga Node Package', function () {
+    
+});
